@@ -1,4 +1,4 @@
-# shaneflo.github.io
+# Shaneflo.github.io EATERY
 
 ## projects
 ### project 1
